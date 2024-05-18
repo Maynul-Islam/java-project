@@ -7,6 +7,8 @@ package com.mycompany.calculator;
 /**
  *
  * @author user
+ code by Maynul Islam Munna
+
  */
 import java.awt.Color;
 import java.awt.Font;
